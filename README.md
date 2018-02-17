@@ -20,6 +20,10 @@ person, tool...
 # java
 - - -
 # c++
+- https://github.com/pyk
+- https://github.com/skypjack
+- https://github.com/gzc
+- 
 ---
 # ruby
 ---
