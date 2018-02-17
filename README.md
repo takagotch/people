@@ -14,10 +14,17 @@ person, tool...
 - https://github.com/lc-soft
 - https://github.com/jedisct1
 - https://github.com/rgburke
+- https://github.com/vurtun
+- https://github.com/kovidgoyal
 ---
 # java
 - - -
-
+# c++
+---
+# ruby
+---
+# python
+---
 
 
 
