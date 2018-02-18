@@ -35,6 +35,10 @@ person, tool...
 - 
 ---
 # ruby
+- https://github.com/KrauseFx
+- https://github.com/ai
+- https://github.com/bbatsov
+- https://github.com/Thibaut
 ---
 # python
 ---
