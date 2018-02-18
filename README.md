@@ -17,8 +17,14 @@ person, tool...
 - https://github.com/vurtun
 - https://github.com/kovidgoyal
 ---
-# java
-- - -
+# go
+- https://github.com/kelseyhightower
+- https://github.com/spf13
+- https://github.com/mitchellh
+- https://github.com/esimov
+- https://github.com/jedisct1 
+- https://github.com/rgburke
+---
 # c++
 - https://github.com/pyk
 - https://github.com/skypjack
@@ -29,16 +35,8 @@ person, tool...
 ---
 # python
 ---
-# go
-- https://github.com/kelseyhightower
-- https://github.com/spf13
-- https://github.com/mitchellh
-- https://github.com/esimov
-- https://github.com/jedisct1 
-
+# java
 ---
-
-
 
 
 
