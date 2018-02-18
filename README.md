@@ -29,6 +29,14 @@ person, tool...
 ---
 # python
 ---
+# go
+- https://github.com/kelseyhightower
+- https://github.com/spf13
+- https://github.com/mitchellh
+- https://github.com/esimov
+- https://github.com/jedisct1 
+
+---
 
 
 
