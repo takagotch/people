@@ -24,6 +24,9 @@ person, tool...
 - https://github.com/esimov
 - https://github.com/jedisct1 
 - https://github.com/rgburke
+- https://github.com/avelino
+- https://github.com/tidwall
+- https://github.com/vektah
 ---
 # c++
 - https://github.com/pyk
