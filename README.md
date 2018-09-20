@@ -41,7 +41,12 @@ person, tool...
 - https://github.com/bbatsov
 - https://github.com/Thibaut
 - http://tenderlovemaking.com/
-- 
+- https://blog.arkency.com/
+-
+-
+-
+-
+-
 ---
 # python
 ---
