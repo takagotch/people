@@ -40,6 +40,8 @@ person, tool...
 - https://github.com/ai
 - https://github.com/bbatsov
 - https://github.com/Thibaut
+- http://tenderlovemaking.com/
+- 
 ---
 # python
 ---
